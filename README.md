@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Giancarlo Garica.
+### Hi there 👋 I'm Giancarlo Garcia.
 
 - 💻 I'm a Computer Science major at California State University Stanislaus. I am a Teacher Asistant for a Mobile Android Development Course at Codepath.org. 
 - 🔭 I was a Summer Software Engineering Intern JPMorgan Chase & Co. and a dedicated developer within my team. I've been working on my software development and mobile development skills through Codepath courses, projects, hackathons, and volunteering initiatives.
