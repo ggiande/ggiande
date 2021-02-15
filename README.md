@@ -10,8 +10,3 @@
 ### My Personal Blog/Todo List
 
 - I currently have a Notion Workspace that I use to organize ALL my thoughts and projects that I am working on. [Check it out!](https://www.notion.so/Personal-Blog-Todo-List-0fc9641270ff40a3957312adcb7f877f)
-
-
-### My Socials: [<img align="left" alt="Gian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/giancarlo-garcia/
