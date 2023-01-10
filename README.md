@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/giancarlo-garcia/" target="_blank"> Giancarlo Garcia! </a>
 
 ### About Me 🙂
-Hello there, 👋 I'm Giancarlo, currently pursuing a Bachelor's degree in Computer Science
+Hello there, 👋 I'm Giancarlo and have a Bachelor's degree in Computer Science
 
 - 💻 I'm a Computer Science major at California State University Stanislaus.
 - :briefcase: In the past I have worked as a Software Engineering Academic Intern at JPMorgan Chase & Co. - Palo Alto Office
