@@ -1,9 +1,9 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/giancarlo-garcia/" target="_blank"> Giancarlo Garcia! </a>
 
-### About Me 🙂
+### About Me
 
-- 🎓 I now have a B.S. in Computer Science from CSU, Stanislaus.
-- 💬 Feel free to talk to me about paving the way for students and professionals to achieve success through new opportunities and being as inclusive as possible.
+- I have a B.S. in Computer Science from CSU, Stanislaus.
+- Feel free to talk to me about paving the way for students and professionals to achieve success through new opportunities and being as inclusive as possible.
 
 ## Languages
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
